@@ -85,3 +85,8 @@ Delete everything, including images
 ```bash
 docker-compose down -v --rmi all
 ```
+
+Bash server
+```bash
+docker-compose exec php bash
+```
