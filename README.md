@@ -4,6 +4,14 @@
 
 [Docker Desktop](https://desktop.docker.com/mac/stable/Docker.dmg)
 
+## Usage
+
+```bash
+git clone https://github.com/cmartinespinosa/docker-lemp.git
+cd docker-lemp
+docker-compose up -d
+```
+
 ## Commands
 
 
